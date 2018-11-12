@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Metro_Map_Lines" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 208.5 204.5" style="enable-background:new 0 0 208.5 204.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#0AA848;stroke-width:2.5;stroke-linecap:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#FCD000;stroke-width:2.5;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#F49506;stroke-width:2.5;stroke-linecap:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#9FA5A4;stroke-width:2.5;stroke-linecap:round;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#1076C4;stroke-width:2.5;stroke-linecap:round;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#E72434;stroke-width:2.5;stroke-linecap:round;stroke-miterlimit:10;}
+	.st6{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<g>
+	<title>metro-map-svg</title>
+	<path id="green-line" class="st0" d="M179.3,159.1l-14.6-14.6c-0.6-0.9-2.6-0.7-3.6-0.5l-3.8,2c-1,0.2-2.2-0.1-2.9-0.9l-7.4-8.2
+		c-0.9-1-2.4-1.7-3.7-1.7H130c-2.2,0-4-1.8-4-4l0.5-54c0-2.5-2-4.5-4.4-4.5l0,0h-3c-2.1,0-3.7-1.7-3.7-3.7v-1.8
+		c0-2.1,1.7-3.7,3.7-3.7h6.2c3,0,5.7-1.8,6.8-4.4l1.4-3.4c0.2-0.3,0.5-0.6,0.7-0.9l20.8-20.8"/>
+	<path id="yellow-line" class="st1" d="M106.4,195.5v-32.4c0-2.9-3.7-6.7-7.7-6.7c0,0-4.4,0.4-4.4-2.6V140c0-2,10.2-10.2,10.2-10.2
+		c1.2-1.2,3.8-0.9,5.6-0.9h9.3c2.8,0,2.8-1,2.8-5.6V81.7c0-3.1,0.6-5.2-2.5-5.3h-1.5c-3.5,0-6.3-2.8-6.3-6.3v-3.5
+		c0-3.6,2.9-6.5,6.5-6.5c3.1,0,6.3,0,6.4,0c0.6,0,1.2-0.1,1.9-0.3l1.7-1.1l1.5-1.4"/>
+	<path id="orange-line" class="st2" d="M3.7,102.5H55c4.7,0,10.7,1.3,10.7-3.2v-5.1c0-8.4,6.9-11.1,8.8-11.1h29.6
+		c2.4,0,9.3,0.9,9.3,11.1v12.1c0,2.4,0,6.5,5.6,6.5h24c1,0,2-0.3,2.7-1l6.3-5.4c0.7-0.6,1.8-1,2.8-1H169c1.1,0,2.2-0.4,3-1.2
+		L196.2,80"/>
+	<path id="silver-line" class="st3" d="M3.7,75.1L33.7,105c0.5,0.5,1.1,0.7,1.9,0.7H63c3.6,0,6.5-2.9,6.5-6.5v-6.8
+		c0.1-1.9,2.5-5.1,5.4-5.3l28-0.3c4.1,0,6.8,3.3,6.8,7.4l0.1,14.7c0,3.8,3.7,7,7.5,7h27.6c1,0,2-0.4,2.7-1l5.9-5.2
+		c0.7-0.7,1.7-1.2,2.7-1.2h48.6"/>
+	<path id="blue-line" class="st4" d="M63.9,194.6v-7.9c0-3.3,2.7-6,6-6h29.9c1.7,0,3-1.3,3-3v-12.8c0-2.5-2.1-4.5-4.5-4.5l0,0h-2.7
+		c-2.7,0-4.9-2.2-4.9-4.9l0,0v-19.9c0-2-0.7-3.8-2.2-5.2l-12.7-12.7c-2.1-2.1-3.3-5-3.3-7.9V94.1c0-2.1,1.7-3.7,3.7-3.7h25.8
+		c1.9,0,3.3,1.4,3.3,3.3v13.7c0,6.7,5.4,12.2,12.1,12.2c0,0,0,0,0.1,0h28c1,0,2-0.3,2.7-0.9l6.5-5.2c1-0.8,2.4-1.3,3.7-1.3h46"/>
+	<path id="red-line" class="st5" d="M115.3,9v29.1c0,1.4,0.5,2.9,1.5,3.9l25.7,26.4c0.4,0.5,0.8,1,1,1.7c0.2,0.6,0.3,1.2,0.3,1.9
+		c-0.3,7,0.2,14,0,21c0.1,1-0.2,2-0.8,2.8c-0.5,0.5-1.1,0.8-1.9,0.9c-10.5,0-24.7-0.1-35.2,0c-7.3,0.1-6.7-3.6-6.7-3.6l-0.2-15.3
+		c-0.3-1.1-1.9-2.9-2.7-3.8L84.2,61.2c-0.9-1.1-2.3-1.8-3.7-1.8h-2.2c-2.5,0-4.9-2.9-6.6-4.6L33.6,17.2"/>
+	<circle class="st6" cx="115.2" cy="11.8" r="1.3"/>
+	<circle class="st6" cx="115.2" cy="18.3" r="1.3"/>
+	<circle class="st6" cx="115.2" cy="24.8" r="1.3"/>
+	<circle class="st6" cx="115.2" cy="31.3" r="1.3"/>
+	<circle class="st6" cx="119.8" cy="45" r="1.3"/>
+	<circle class="st6" cx="143.7" cy="73.2" r="1.3"/>
+	<circle class="st6" cx="143.7" cy="79.6" r="1.3"/>
+	<circle class="st6" cx="124.2" cy="81.6" r="1.3"/>
+	<circle class="st6" cx="113.7" cy="68.1" r="1.3"/>
+	<circle class="st6" cx="120.7" cy="61.7" r="1.3"/>
+	<circle class="st6" cx="120.7" cy="74.5" r="1.3"/>
+	<circle class="st6" cx="124.2" cy="88" r="1.3"/>
+	<circle class="st6" cx="143.7" cy="86.1" r="1.3"/>
+	<circle class="st6" cx="143.7" cy="92.6" r="1.3"/>
+	<circle class="st6" cx="83.8" cy="60.8" r="1.3"/>
+	<circle class="st6" cx="88.2" cy="65.5" r="1.3"/>
+	<circle class="st6" cx="92.6" cy="70.3" r="1.3"/>
+	<circle class="st6" cx="97" cy="75" r="1.3"/>
+	<circle class="st6" cx="99.1" cy="80.3" r="1.3"/>
+	<circle class="st6" cx="201.6" cy="110.2" r="1.3"/>
+	<circle class="st6" cx="195.2" cy="110.2" r="1.3"/>
+	<circle class="st6" cx="188.7" cy="110.2" r="1.3"/>
+	<circle class="st6" cx="182.2" cy="110.2" r="1.3"/>
+	<circle class="st6" cx="176.4" cy="110.2" r="1.3"/>
+	<circle class="st6" cx="134.6" cy="96.7" r="1.3"/>
+	<circle class="st6" cx="124.2" cy="104.5" r="1.3"/>
+	<circle class="st6" cx="193.3" cy="82.7" r="1.3"/>
+	<circle class="st6" cx="188.8" cy="87.2" r="1.3"/>
+	<circle class="st6" cx="184.1" cy="91.9" r="1.3"/>
+	<circle class="st6" cx="179.6" cy="96.4" r="1.3"/>
+	<circle class="st6" cx="174.7" cy="101.3" r="1.3"/>
+	<circle class="st6" cx="25.6" cy="96.8" r="1.3"/>
+	<circle class="st6" cx="20.9" cy="92.2" r="1.3"/>
+	<circle class="st6" cx="16.4" cy="87.6" r="1.3"/>
+	<circle class="st6" cx="19.8" cy="102.5" r="1.3"/>
+	<circle class="st6" cx="13.4" cy="102.5" r="1.3"/>
+	<circle class="st6" cx="6.9" cy="102.5" r="1.3"/>
+	<circle class="st6" cx="92" cy="87" r="1.3"/>
+	<circle class="st6" cx="104.4" cy="87" r="1.3"/>
+	<circle class="st6" cx="85.6" cy="87" r="1.3"/>
+	<circle class="st6" cx="77.8" cy="59.4" r="1.3"/>
+	<circle class="st6" cx="140" cy="115.9" r="1.3"/>
+	<circle class="st6" cx="133.6" cy="115.9" r="1.3"/>
+	<circle class="st6" cx="151.9" cy="110.4" r="1.3"/>
+	<circle class="st6" cx="147.4" cy="114.9" r="1.3"/>
+	<circle class="st6" cx="110.8" cy="112.6" r="1.3"/>
+	<circle class="st6" cx="109.8" cy="106.2" r="1.3"/>
+	<circle class="st6" cx="48.4" cy="103.8" r="1.3"/>
+	<circle class="st6" cx="42.5" cy="103.8" r="1.3"/>
+	<circle class="st6" cx="60.1" cy="103.8" r="1.3"/>
+	<circle class="st6" cx="54.2" cy="103.8" r="1.3"/>
+	<circle class="st6" cx="176.1" cy="156" r="1.3"/>
+	<circle class="st6" cx="171.5" cy="151.3" r="1.3"/>
+	<circle class="st6" cx="166.9" cy="146.8" r="1.3"/>
+	<circle class="st6" cx="138.8" cy="135.2" r="1.3"/>
+	<circle class="st6" cx="133.1" cy="135.2" r="1.3"/>
+	<circle class="st6" cx="152.8" cy="143" r="1.3"/>
+	<circle class="st6" cx="158.9" cy="145.2" r="1.3"/>
+	<circle class="st6" cx="148.7" cy="138.9" r="1.3"/>
+	<circle class="st6" cx="106.4" cy="192.3" r="1.3"/>
+	<circle class="st6" cx="63.9" cy="191.4" r="1.3"/>
+	<circle class="st6" cx="76.5" cy="180.7" r="1.3"/>
+	<circle class="st6" cx="106.4" cy="185.8" r="1.3"/>
+	<circle class="st6" cx="104.4" cy="170.8" r="1.3"/>
+	<circle class="st6" cx="104.4" cy="164.4" r="1.3"/>
+	<circle class="st6" cx="92.5" cy="150.2" r="1.3"/>
+	<circle class="st6" cx="82.3" cy="124.1" r="1.3"/>
+	<circle class="st6" cx="96.8" cy="158.1" r="1.3"/>
+	<circle class="st6" cx="11.7" cy="83" r="1.3"/>
+	<circle class="st6" cx="6.9" cy="78.2" r="1.3"/>
+	<circle class="st6" cx="152.2" cy="36.8" r="1.3"/>
+	<circle class="st6" cx="147.7" cy="41.4" r="1.3"/>
+	<circle class="st6" cx="143" cy="45.9" r="1.3"/>
+	<g>
+		<circle class="st6" cx="131.9" cy="57" r="3.2"/>
+		<circle class="st6" cx="131.9" cy="57" r="1.3"/>
+	</g>
+	<g>
+		<circle class="st6" cx="124.2" cy="96.9" r="3.2"/>
+		<circle class="st6" cx="124.2" cy="96.9" r="1.3"/>
+	</g>
+	<g>
+		<circle class="st6" cx="124.2" cy="115.9" r="3.2"/>
+		<circle class="st6" cx="124.2" cy="115.9" r="1.3"/>
+	</g>
+	<g>
+		<circle class="st6" cx="160.4" cy="108.4" r="3.2"/>
+		<circle class="st6" cx="160.4" cy="108.4" r="1.3"/>
+	</g>
+	<g>
+		<circle class="st6" cx="109.4" cy="96.9" r="3.2"/>
+		<circle class="st6" cx="109.4" cy="96.9" r="1.3"/>
+	</g>
+	<g>
+		<circle class="st6" cx="92.5" cy="141.7" r="3.2"/>
+		<circle class="st6" cx="92.5" cy="141.7" r="1.3"/>
+	</g>
+	<g>
+		<circle class="st6" cx="104.4" cy="178.3" r="3.2"/>
+		<circle class="st6" cx="104.4" cy="178.3" r="1.3"/>
+	</g>
+	<g>
+		<circle class="st6" cx="33.6" cy="103.8" r="3.2"/>
+		<circle class="st6" cx="33.6" cy="103.8" r="1.3"/>
+	</g>
+	<g>
+		<circle class="st6" cx="69.5" cy="96.9" r="3.2"/>
+		<circle class="st6" cx="69.5" cy="96.9" r="1.3"/>
+	</g>
+	<circle class="st6" cx="138.5" cy="50.5" r="1.3"/>
+	<circle class="st6" cx="36.7" cy="20.4" r="1.3"/>
+	<circle class="st6" cx="41.9" cy="25.4" r="1.3"/>
+	<circle class="st6" cx="47.1" cy="30.6" r="1.3"/>
+	<circle class="st6" cx="52.1" cy="35.7" r="1.3"/>
+	<circle class="st6" cx="57.3" cy="40.8" r="1.3"/>
+	<circle class="st6" cx="62.4" cy="45.9" r="1.3"/>
+	<circle class="st6" cx="67.5" cy="51.1" r="1.3"/>
+	<circle class="st6" cx="72.6" cy="56.2" r="1.3"/>
+</g>
+</svg>

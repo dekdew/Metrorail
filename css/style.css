@@ -1,0 +1,154 @@
+#headerVideo {
+    min-height: 100vh;
+    min-width: 100vw;
+    position: absolute;
+    top: 0;
+    right: 0;
+    filter: brightness(.5);
+    z-index: -1;
+}
+
+nav {
+    display: flex;
+    padding: 24px;
+    position: absolute;
+    width: 100%;
+    height: auto;
+}
+
+nav h3 a {
+    flex: 1;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+nav div {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+}
+
+nav div a {
+    font-size: 18px;
+    padding: 0 10px;
+    transition: all .2s;
+}
+
+nav a:hover {
+    text-shadow: 2px 2px #ff0000;
+}
+
+#ov {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(to top, #000000de, #00000029);
+    left: 0;
+    top: 0;
+    z-index: -1;
+}
+
+header {
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+}
+
+header .intro {
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 24px;
+    color: #fff;
+}
+
+header .intro h1 {
+    margin-top: 32px;
+}
+
+.feature {
+    text-align: center;
+    height: auto;
+    width: 100vw;
+    display: grid;
+}
+
+.feature .group {
+    align-self: center;
+    display: flex;
+    padding: 48px 0;
+}
+
+.feature .group a {
+    color: #000;
+}
+
+.feature .group div {
+    flex: 1;
+}
+
+.feature .group div img {
+    height: 128px;
+}
+
+.feature h3 {
+    padding-top: 16px;
+}
+
+.feature .border {
+    border-left: solid 2px #777;
+    border-right: solid 2px #777;
+}
+
+.guide {
+    min-height: 100vh;
+    width: 100vw;
+    display: grid;
+    background-color: #fbfbfb;
+}
+
+.guide .group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 64px;
+}
+
+.guide .bg {
+    width: 80%;
+    padding: 32px 0;
+    margin-top: 32px;
+    margin-bottom: 96px;
+    background-color: #fff;
+}
+
+.guide .bg .story {
+    padding: 32px 64px;
+}
+
+.guide .bg .story h3 {
+    padding-bottom: 10px;
+}
+
+.guide ul {
+    list-style-type: circle;
+    padding: 0 20px;
+}
+
+.guide ol {
+    list-style-type: decimal;
+    padding: 0 20px;
+}
+
+.guide p, .guide ul li, .guide ol li {
+    padding: 2px 0;
+}
+
+footer {
+    background-color: #4f4f4f;
+}
+footer p {
+    color: #fff;
+    text-align: center;
+}

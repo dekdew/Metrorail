@@ -1,0 +1,287 @@
+.gr {
+    fill: none;
+    stroke: #0AA848;
+    stroke-width: 2.5;
+    stroke-linecap: round;
+    stroke-miterlimit: 10;
+}
+
+.yl {
+    fill: none;
+    stroke: #FCD000;
+    stroke-width: 2.5;
+    stroke-linecap: round;
+    stroke-miterlimit: 10;
+}
+
+.or {
+    fill: none;
+    stroke: #F49506;
+    stroke-width: 2.5;
+    stroke-linecap: round;
+    stroke-miterlimit: 10;
+}
+
+.sv {
+    fill: none;
+    stroke: #9FA5A4;
+    stroke-width: 2.5;
+    stroke-linecap: round;
+    stroke-miterlimit: 10;
+}
+
+.bl {
+    fill: none;
+    stroke: #1076C4;
+    stroke-width: 2.5;
+    stroke-linecap: round;
+    stroke-miterlimit: 10;
+}
+
+.rd {
+    fill: none;
+    stroke: #E72434;
+    stroke-width: 2.5;
+    stroke-linecap: round;
+    stroke-miterlimit: 10;
+}
+
+.st6 {
+    fill: #FFFFFF;
+    stroke: #000000;
+    stroke-miterlimit: 10;
+}
+
+body {
+    background: #fbfbfb;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    display: flex;
+    padding: 24px;
+    width: 100%;
+    height: auto;
+    background: #fff;
+    box-shadow: 0px 0px 8px #888888;
+    z-index: 999;
+}
+
+nav .title a {
+    color: #000;
+    flex: 1;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+nav div {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+}
+
+nav .item a {
+    color: #000;
+    font-size: 18px;
+    padding: 0 10px;
+    transition: all .2s;
+}
+
+nav .item a:nth-child(1) {
+    text-shadow: 2px 2px #90caf9;
+}
+
+nav a:hover {
+    text-shadow: 2px 2px #90caf9;
+}
+
+.map {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 128px 16px 32px 16px;
+}
+
+.map #Metro_Map_Lines {
+    margin-top: 16px;
+    height: auto;
+    width: 80vw;
+}
+
+.map ul {
+    list-style-type: none;
+    display: flex;
+}
+
+.map li {
+    margin: 0 16px;
+}
+
+.map button {
+    width: 156;
+    border-radius: 5px;
+    padding: 8px 16px;
+}
+
+.map #rd {
+    color: #E72434;
+}
+
+.map #or {
+    color: #F49506;
+}
+
+.map #bl {
+    color: #1076C4;
+}
+
+.map #gr {
+    color: #0AA848;
+}
+
+.map #yl {
+    color: #FCD000;
+}
+
+.map #sv {
+    color: #9FA5A4;
+}
+
+.lines {
+    display: flex;
+    padding: 64px 16px 32px 16px;
+    background-color: #eee;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    width: 512px;
+    margin: 32px;
+    background-color: #fff;
+    margin-bottom: 32px;
+    border-radius: 2px;
+    box-shadow:
+        0 1px 3px rgba(0, 0, 0, 0.12),
+        0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+.content {
+    position: relative;
+    padding: 32px;
+}
+
+.line-code {
+    float: right;
+    position: relative;
+    margin-top: -42px;
+}
+
+.code {
+    color: #fff;
+    background-color: #fff;
+    display: inline-block;
+    width: 48px;
+    height: 48px;
+    line-height: 48px;
+    text-align: center;
+    border-radius: 50%;
+    transition: all 0.3s ease;
+    outline: 0;
+    box-shadow:
+        0 2px 4px rgba(0, 0, 0, 0.12),
+        0 2px 4px rgba(0, 0, 0, 0.24);
+}
+
+.bg-RD {
+    background-color: #E72434;
+}
+
+.bg-SV {
+    background-color: #9FA5A4;
+}
+
+.bg-GR {
+    background-color: #0AA848;
+}
+
+.bg-BL {
+    background-color: #1076C4;
+}
+
+.bg-YL {
+    background-color: #FCD000;
+}
+
+.bg-OR {
+    background-color: #F49506;
+}
+
+.cl-RD {
+    color: #E72434;
+}
+
+.cl-SV {
+    color: #9FA5A4;
+}
+
+.cl-GR {
+    color: #0AA848;
+}
+
+.cl-BL {
+    color: #1076C4;
+}
+
+.cl-YL {
+    color: #FCD000;
+}
+
+.cl-OR {
+    color: #F49506;
+}
+
+.cl-w {
+    color: #fff;
+}
+
+.info {
+    text-decoration: none;
+    color: #444;
+    transition: all 0.5s ease;
+}
+
+.station {
+    position: fixed;
+    left: 50%;
+    top: 0%;
+    bottom: auto;
+    right: auto;
+    transform: translateX(-50%);
+    /* display: none; */
+    opacity: 0;
+    width: 320px;
+    transition:all 0.3s;
+    z-index: 1000;
+}
+
+.station .content {
+    height: 160px;
+}
+
+footer {
+    background-color: #4f4f4f;
+}
+footer p {
+    color: #fff;
+    text-align: center;
+}
